@@ -1,5 +1,5 @@
-google_translator
-=================
+google-translate-cis
+====================
 
 With the help of this gem you can easily convert one language text into another and it is a simple language converter which you can use in your application. :-)
 
@@ -9,13 +9,13 @@ First thing you need to do is the installation , you can follow the below mentio
 You need to add sudo if you are not using rvm(ruby version manager)
 
 <pre>
-gem install google_translator
+gem install google-translate-cis
 </pre>
 
  
 Add this following line in your Gemfile and then run bundle install. 
 <pre>
-gem 'google_translator' 
+gem 'google-translate-cis' 
 </pre>
 
 
